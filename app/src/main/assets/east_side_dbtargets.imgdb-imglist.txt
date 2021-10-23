@@ -1,0 +1,16 @@
+afrikanische_weisheit.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//afrikanische_weisheit.jpg
+andrej_sacharow.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//andrej_sacharow.jpg
+berlin.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//berlin.jpg
+bunny_windows.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//bunny_windows.jpg
+communist_kiss.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//communist_kiss.jpg
+curriculum_vita.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//curriculum_vita.jpg
+dog.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//dog.jpg
+nathan_jones.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//nathan_jones.jpg
+obscure_faces.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//obscure_faces.jpg
+red_curtain.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//red_curtain.jpg
+robot_war.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//robot_war.jpg
+seven_stages.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//seven_stages.jpg
+thumbs_up.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//thumbs_up.jpg
+tolerance.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//tolerance.jpg
+wall_car.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//wall_car.jpg
+women_in_power.jpg|/Users/theresa/Desktop/EastSideGalleryDatabaseTargets//women_in_power.jpg
